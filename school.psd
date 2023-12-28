@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Photoshop</title>
+	<link href="" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<!------------------------------head------------------------------------------>
+	<div class="head">
+	<div class="psd">
+	<div class="hd">
+		<img src="images_02.png" alt="">
+		<nav>
+		<a href="#">Office@BCY.com</a>
+		<a href="#"></a>
+		<a href="#"></a>
+		<a href="#"></a>
+		</nav>
+		</div>
+	</div>
+	</div>
+
+	<!------------------------------navigation------------------------------------------>
+	
+	<div class="navg">
+	<div class="psd">
+	<div class="nav">
+		<nav>
+		<a href="#" style="background:#a9c91b; color:#fff;"></a>
+	    <a href="#" style="background:#fdb203; color:#fff;"></a>
+		<a href="#" style="background:#de3b3b; color:#fff;"></a>
+		<a href="#" style="background:#29bdcd; color:#fff;"></a>
+		<a href="#" style="background:#a9c91b; color:#fff;"></a>
+		<a href="#" style="background:#fdb203; color:#fff;"></a>
+		<a href="#" style="background:#de3b3b; color:#fff;"></a>
+		<a href="#" style="background:#29bdcd; color:#fff;"></a>
+		</nav>
+		
+		
+		
+		
+		
+		</div>	
+		</div>	
+	</div>
+</body>
+</html>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
